@@ -14,16 +14,25 @@ I tested both of these scripts on parallels desktop 17, with an expired trial. W
 # Steps to run each program
 
 PD Runner:
+
 Download PD.Runner.app.zip and unextract it
+
 Move PD Runner to your applications folder
+
 Run PD Runner
+
 This will create a menu bar icon where you can start parallels desktop's vm's
 
 Parallels-reset.sh:
+
 Download Parallels-reset.sh
+
 Fully close both Parallels Deskop and PD Runner
+
 run Parallels-reset.sh using `sudo sh Parallels-reset.sh`
+
 Launch Parallels Deskop
+
 You will need to log into a new account to activate the new trail, I found that using my google account worked well
 
 # Disclaimer
