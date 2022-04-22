@@ -13,7 +13,7 @@ I tested both of these scripts on parallels desktop 17, with an expired trial. W
 
 # Steps to run each program
 
-PD Runner:
+## PD Runner
 
 Download PD.Runner.app.zip and unextract it
 
@@ -23,7 +23,7 @@ Run PD Runner
 
 This will create a menu bar icon where you can start parallels desktop's vm's
 
-Parallels-reset.sh:
+## Parallels-reset.sh
 
 Download Parallels-reset.sh
 
