@@ -1,6 +1,8 @@
 # Parallels-Desktop-trial-bypass
 A collection of the programs that I have found to bypass a expired parallels desktop trail
 
+# Programs
+
 Parallels-reset.sh is the code from this pastbin https://pastebin.com/CVdThLx0 that I found when browsing a form.
 
 PD.Runner.app.zip was from the release section of https://github.com/tcgmilan/pd-runner
@@ -9,7 +11,7 @@ PD.Runner.app.zip was from the release section of https://github.com/tcgmilan/pd
 
 I tested both of these scripts on parallels desktop 17, with an expired trial. With only using PD Runner, I was able to start my already made window 11 vm, but I needed to use Parallels-reset.sh to reset the trial to start a newly created vm, after my trial had expired.
 
-#Steps to run each program
+# Steps to run each program
 
 PD Runner:
 Download PD.Runner.app.zip and unextract it
