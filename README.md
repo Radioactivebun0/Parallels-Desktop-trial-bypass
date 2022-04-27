@@ -5,7 +5,7 @@ A collection of the programs that I have found to bypass a expired parallels des
 
 Parallels-reset.sh is the code from this pastbin https://pastebin.com/CVdThLx0 that I found when browsing a form.
 
-PD.Runner.app.zip was from the release section of https://github.com/tcgmilan/pd-runner
+PD.Runner.app.zip was from the release section of https://github.com/tcgmilan/pd-runner an archive of https://github.com/lihaoyun6/PD-Runner
 
 **All credit goes to these creators**
 
