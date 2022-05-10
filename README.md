@@ -1,6 +1,10 @@
 # Parallels-Desktop-trial-bypass
 A collection of the programs that I have found to bypass a expired parallels desktop trail
 
+# WARNING
+As of right now, Parallels-reset.sh does not seam to bypass the trial. It seams to delete all the files it needs to, but it seams to be leaving something. 
+To my knowledge, PD-Runner still works. If you need to start your trial again for PD-Runner, you can look for the date the trial activation email was sent, and turn your system date back.
+
 # Programs
 
 Parallels-reset.sh is the code from this pastbin https://pastebin.com/CVdThLx0 that I found when browsing a form.
